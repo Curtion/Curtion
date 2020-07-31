@@ -1,6 +1,6 @@
-## Hey，My is Curtion
-
-### Platform&Tools
+### Hey，My is Curtion
+一枚小前端，没事的时候也会写写后端，有时间也会设计自己的PCB板子，奇怪的东西都想试试，但都不厉害，唯一目标是学习英语！
+## Platform&Tools
 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
@@ -19,7 +19,17 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![C](https://img.shields.io/badge/-ARMC-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![UBoot](https://img.shields.io/badge/-U--Boot-6E6E6E?style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Little_Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-Little_PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black)
+
+## 本周开发时间
+
+<script src="https://gist.github.com/Curtion/d1974ca54fdadb29f382a4651984a6ef.js"></script>
+
+## Where to find me
+
+[BLOG](https://blog.3gxk.net)
+
+[GitHub](https://github.com/Curtion)
