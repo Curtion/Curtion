@@ -26,7 +26,7 @@
 
 ## 本周开发时间
 
-<script type="text/javascript" src="https://gist.github.com/Curtion/d1974ca54fdadb29f382a4651984a6ef.js"></script>
+<script src="https://gist.github.com/Curtion/d1974ca54fdadb29f382a4651984a6ef.js">s</script>
 
 ## Where to find me
 
