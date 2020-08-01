@@ -1,5 +1,5 @@
 ### Hey，My is Curtion
-一枚小前端，没事的时候也会写写后端，有时间也会设计自己的PCB板子，奇怪的东西都想试试，但都不厉害，唯一目标是学习英语！
+一枚小前端，没事的时候也会写写后端，有时间也会设计自己的PCB板子，奇怪的东西都想试试，但都不厉害，长久目标是学习英语！
 ## Platform&Tools
 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
