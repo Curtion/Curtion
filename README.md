@@ -24,6 +24,11 @@
 ![PHP](https://img.shields.io/badge/-Little_PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black)
 
+## 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Where to find me
 
 [BLOG](https://blog.3gxk.net)
