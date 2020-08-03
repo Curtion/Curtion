@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 July, 2020 - 01 August, 2020
+Week: 26 July, 2020 - 02 August, 2020
 
 Vue.js       3 hrs 38 mins   █████████████░░░░░░░░░░░░   54.23 % 
 Markdown     1 hr 48 mins    ██████░░░░░░░░░░░░░░░░░░░   27.00 % 
