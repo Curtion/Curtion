@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2020 - 22 August, 2020
+Week: 16 August, 2020 - 23 August, 2020
 
 JavaScript   12 hrs 56 mins  ███████████████████░░░░░░   76.59 % 
 HTML         1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
