@@ -28,12 +28,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 August, 2020 - 24 August, 2020
+Week: 18 August, 2020 - 25 August, 2020
 
-JavaScript   14 hrs 27 mins  ████████████████████▒░░░░   81.75 % 
-Vue.js       2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-HTML         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+JavaScript   13 hrs 9 mins   ███████████████████▓░░░░░   79.02 % 
+Vue.js       2 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+HTML         1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
