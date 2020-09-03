@@ -38,6 +38,10 @@ HTML         11 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+## My Github Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=curtion&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Where to find me
 
 [BLOG](https://blog.3gxk.net)
