@@ -28,13 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2020 - 30 September, 2020
+Week: 24 September, 2020 - 01 October, 2020
 
-Vue.js       9 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   47.09 % 
-Rust         8 hrs 40 mins   ███████████░░░░░░░░░░░░░░   43.96 % 
-JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-TOML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Rust         8 hrs 40 mins   ████████████░░░░░░░░░░░░░   47.97 % 
+Vue.js       7 hrs 40 mins   ██████████▓░░░░░░░░░░░░░░   42.38 % 
+JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+TOML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 <!--END_SECTION:waka-->
 
