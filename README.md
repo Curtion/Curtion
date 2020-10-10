@@ -28,7 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 October, 2020 - 09 October, 2020
+
+Rust     5 hrs 37 mins   ████████████████████▒░░░░   81.35 % 
+Vue.js   36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+TOML     27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Text     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
 
