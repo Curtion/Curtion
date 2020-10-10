@@ -1,5 +1,5 @@
 ### Hey，My is Curtion
-一枚小前端，没事的时候也会写写后端，有时间也会设计自己的PCB板子，奇怪的东西都想试试，但都不厉害，长久目标是学习英语！
+一枚前端开发工程师，学习英语中...
 ## Platform&Tools
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
