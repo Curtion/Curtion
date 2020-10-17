@@ -28,13 +28,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2020 - 15 October, 2020
+Week: 09 October, 2020 - 16 October, 2020
 
-Vue.js       9 hrs 44 mins   ███████████▒░░░░░░░░░░░░░   45.79 % 
-Rust         8 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   38.41 % 
-JavaScript   2 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-TOML         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Text         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Vue.js       10 hrs 57 mins  ████████████████░░░░░░░░░   64.31 % 
+JavaScript   3 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Rust         2 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
