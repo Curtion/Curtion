@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2020 - 24 October, 2020
+Week: 18 October, 2020 - 25 October, 2020
 
 Vue.js       12 hrs 11 mins  █████████████████████░░░░   83.96 % 
 JavaScript   1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
