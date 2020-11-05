@@ -28,12 +28,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2020 - 03 November, 2020
+Week: 28 October, 2020 - 04 November, 2020
 
-Vue.js       10 hrs 16 mins  ███████████████░░░░░░░░░░   59.53 % 
-JavaScript   5 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.79 % 
-HTML         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Vue.js       9 hrs 51 mins   ███████████████▓░░░░░░░░░   62.97 % 
+JavaScript   4 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.67 % 
+HTML         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
 
