@@ -42,6 +42,10 @@ Bash         9 mins          ▒░░░░░░░░░░░░░░░░
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=curtion&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Where to find me
 
 [BLOG](https://blog.3gxk.net)
