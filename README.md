@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2020 - 02 January, 2021
+Week: 27 December, 2020 - 03 January, 2021
 
 Vue.js       5 hrs 51 mins   ██████████████████░░░░░░░   72.35 % 
 Other        43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
