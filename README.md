@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2021 - 25 January, 2021
+Week: 19 January, 2021 - 26 January, 2021
 
 Vue.js       6 mins          ███████████░░░░░░░░░░░░░░   44.54 % 
 JSON         3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.40 % 
