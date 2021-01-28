@@ -28,11 +28,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2021 - 26 January, 2021
+Week: 20 January, 2021 - 27 January, 2021
 
-Vue.js       6 mins          ███████████░░░░░░░░░░░░░░   44.54 % 
-JSON         3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.40 % 
-Other        2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Vue.js       6 mins          ███████████▓░░░░░░░░░░░░░   46.21 % 
+JSON         3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.35 % 
+Other        2 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.68 % 
 ```
 <!--END_SECTION:waka-->
 
