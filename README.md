@@ -28,13 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2021 - 03 February, 2021
+Week: 28 January, 2021 - 04 February, 2021
 
-Vue.js       31 mins         ████████████▓░░░░░░░░░░░░   50.85 % 
-JavaScript   16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.85 % 
-Other        5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Markdown     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Batchfile    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Vue.js       33 mins         ██████████████▓░░░░░░░░░░   59.31 % 
+TypeScript   11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+JSON         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Other        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Batchfile    2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 <!--END_SECTION:waka-->
 
