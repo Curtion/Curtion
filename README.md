@@ -28,11 +28,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2021 - 08 February, 2021
+Week: 02 February, 2021 - 09 February, 2021
 
-Vue.js       11 mins         ███████████░░░░░░░░░░░░░░   43.82 % 
-TypeScript   11 mins         ██████████▓░░░░░░░░░░░░░░   42.92 % 
-JSON         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Rust         49 mins         ██████████████████▓░░░░░░   74.98 % 
+TypeScript   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 % 
+JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Vue.js       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 ```
 <!--END_SECTION:waka-->
 
