@@ -28,12 +28,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2021 - 10 February, 2021
+Week: 04 February, 2021 - 11 February, 2021
 
-Rust         49 mins         ██████████████████▓░░░░░░   74.98 % 
-TypeScript   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 % 
-JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Vue.js       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Rust       52 mins         ████████████▓░░░░░░░░░░░░   50.43 % 
+TOML       49 mins         ████████████░░░░░░░░░░░░░   47.70 % 
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 <!--END_SECTION:waka-->
 
