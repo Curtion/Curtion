@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2021 - 13 February, 2021
+Week: 07 February, 2021 - 14 February, 2021
 
 Rust       52 mins         ████████████▓░░░░░░░░░░░░   50.43 % 
 TOML       49 mins         ████████████░░░░░░░░░░░░░   47.70 % 
