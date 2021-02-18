@@ -28,12 +28,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2021 - 16 February, 2021
+Week: 10 February, 2021 - 17 February, 2021
 
-TOML         51 mins         ████████████▒░░░░░░░░░░░░   49.18 % 
-Rust         32 mins         ████████░░░░░░░░░░░░░░░░░   31.34 % 
-PowerShell   18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Rust         30 mins         █████████████▒░░░░░░░░░░░   52.80 % 
+PowerShell   18 mins         ████████░░░░░░░░░░░░░░░░░   31.47 % 
+TOML         8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 ```
 <!--END_SECTION:waka-->
 
