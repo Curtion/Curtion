@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
 Rust         30 mins         ███████████████░░░░░░░░░░   59.58 % 
 PowerShell   18 mins         █████████░░░░░░░░░░░░░░░░   35.51 % 
