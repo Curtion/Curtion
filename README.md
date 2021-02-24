@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 February, 2021 - 22 February, 2021
+Week: 16 February, 2021 - 23 February, 2021
 
 JavaScript   47 mins         ██████████████▒░░░░░░░░░░   57.99 % 
 JSON         31 mins         █████████▓░░░░░░░░░░░░░░░   38.72 % 
