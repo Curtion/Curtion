@@ -28,11 +28,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 March, 2021 - 22 March, 2021
+Week: 16 March, 2021 - 23 March, 2021
 
-Vue.js       9 hrs 56 mins   █████████████████▓░░░░░░░   70.65 % 
-JavaScript   4 hrs           ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Vue.js       16 hrs 1 min    ███████████████████▒░░░░░   76.89 % 
+JavaScript   4 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 % 
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
 
