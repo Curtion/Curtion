@@ -28,13 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 April, 2021 - 29 April, 2021
+Week: 23 April, 2021 - 30 April, 2021
 
-Vue.js       12 hrs 37 mins  ██████████░░░░░░░░░░░░░░░   39.67 % 
-JavaScript   9 hrs 32 mins   ███████▓░░░░░░░░░░░░░░░░░   30.02 % 
-PHP          3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-JSON         2 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Vue.js       14 hrs 12 mins  ███████████░░░░░░░░░░░░░░   43.73 % 
+JavaScript   9 hrs 11 mins   ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+PHP          3 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+JSON         2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Other        1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 <!--END_SECTION:waka-->
 
