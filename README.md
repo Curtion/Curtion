@@ -1,5 +1,5 @@
 ### Hey，My is Curtion
-前端开发工程师, Learning English...
+前端开发工程师
 ## Platform&Tools
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
