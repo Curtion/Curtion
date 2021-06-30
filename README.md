@@ -28,11 +28,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 June, 2021 - 28 June, 2021
+Week: 23 June, 2021 - 29 June, 2021
 
-Vue.js       1 hr 29 mins    █████████████░░░░░░░░░░░░   51.54 % 
-JavaScript   1 hr 17 mins    ███████████▒░░░░░░░░░░░░░   44.77 % 
-JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+JavaScript   1 hr 19 mins    █████████████▓░░░░░░░░░░░   54.82 % 
+Vue.js       59 mins         ██████████▒░░░░░░░░░░░░░░   40.83 % 
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
 <!--END_SECTION:waka-->
 
