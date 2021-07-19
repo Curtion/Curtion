@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 July, 2021 - 17 July, 2021
+Week: 12 July, 2021 - 18 July, 2021
 
 Vue.js       9 hrs 14 mins   ██████████████████░░░░░░░   72.24 % 
 JavaScript   3 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
