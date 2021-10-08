@@ -28,10 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
-
-JavaScript   58 mins         ██████████████████░░░░░░░   71.77 % 
-Vue.js       23 mins         ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
