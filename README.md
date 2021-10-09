@@ -28,7 +28,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 October, 2021 - 08 October, 2021
+
+Vue.js       1 hr 39 mins    ███████████████████░░░░░░   75.98 % 
+JavaScript   31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
 ```
 <!--END_SECTION:waka-->
 
