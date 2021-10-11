@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
 Vue.js       3 hrs 26 mins   ████████████████▒░░░░░░░░   64.77 % 
 JavaScript   1 hr 51 mins    ████████▓░░░░░░░░░░░░░░░░   35.01 % 
