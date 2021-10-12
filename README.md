@@ -28,10 +28,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 10 October, 2021
+Week: 05 October, 2021 - 11 October, 2021
 
-Vue.js       3 hrs 26 mins   ████████████████▒░░░░░░░░   64.77 % 
-JavaScript   1 hr 51 mins    ████████▓░░░░░░░░░░░░░░░░   35.01 % 
+Vue.js       6 hrs 57 mins   ██████████████░░░░░░░░░░░   55.89 % 
+JavaScript   5 hrs 28 mins   ███████████░░░░░░░░░░░░░░   43.99 % 
 ```
 <!--END_SECTION:waka-->
 
