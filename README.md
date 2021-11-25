@@ -28,13 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-Vue.js       18 hrs 50 mins  ███████████████▒░░░░░░░░░   61.59 % 
-JavaScript   9 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   31.34 % 
-JSON         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Vue.js       14 hrs 53 mins  ████████████░░░░░░░░░░░░░   48.60 % 
+JavaScript   13 hrs 20 mins  ███████████░░░░░░░░░░░░░░   43.53 % 
+JSON         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 HTML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-PHP          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
 
