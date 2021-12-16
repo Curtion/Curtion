@@ -28,13 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2021 - 14 December, 2021
+Week: 09 December, 2021 - 15 December, 2021
 
-JavaScript   4 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.16 % 
-Vue.js       3 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-Bash         1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-HTML         1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-JSON         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+JavaScript   3 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Vue.js       3 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.51 % 
+Bash         1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+HTML         1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+JSON         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 <!--END_SECTION:waka-->
 
