@@ -28,13 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
-Vue.js       8 hrs 47 mins   ██████████████▒░░░░░░░░░░   57.06 % 
-JavaScript   3 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.46 % 
-Text         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-JSON         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Go           26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Vue.js       8 hrs 47 mins   ██████████████▓░░░░░░░░░░   58.35 % 
+JavaScript   3 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.72 % 
+Text         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+TypeScript   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 <!--END_SECTION:waka-->
 
