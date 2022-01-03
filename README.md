@@ -28,13 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
-JavaScript   6 hrs 26 mins   █████████▒░░░░░░░░░░░░░░░   36.92 % 
-Vue.js       5 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   28.88 % 
-Rust         3 hrs 57 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.64 % 
-Other        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Bash         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+JavaScript   6 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   36.91 % 
+Vue.js       5 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.11 % 
+Rust         3 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.93 % 
+Other        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Bash         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 ```
 <!--END_SECTION:waka-->
 
