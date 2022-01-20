@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
 Rust         4 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   38.96 % 
 YAML         2 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
