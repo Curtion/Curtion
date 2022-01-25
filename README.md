@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
 YAML         11 hrs 21 mins  ██████████████░░░░░░░░░░░   56.03 % 
 Text         2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
