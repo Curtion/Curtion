@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2022 - 26 January, 2022
+Week: 21 January, 2022 - 27 January, 2022
 
 YAML         4 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   37.27 % 
 TypeScript   1 hr 59 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
