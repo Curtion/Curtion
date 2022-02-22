@@ -28,13 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 13 February, 2022 - To: 20 February, 2022
 
-Python       2 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.82 % 
-Vue.js       1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-TypeScript   1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Go           1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Rust         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Python       2 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.46 % 
+TypeScript   1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Vue.js       1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Go           1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Rust         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 ```
 <!--END_SECTION:waka-->
 
