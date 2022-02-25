@@ -28,13 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-Go           4 hrs 47 mins   ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-Python       2 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-TypeScript   2 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Vue.js       1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-HTML         1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Go           5 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   33.77 % 
+Python       2 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Vue.js       2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+JavaScript   1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+TypeScript   1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 <!--END_SECTION:waka-->
 
