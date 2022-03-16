@@ -20,8 +20,6 @@
 ![C](https://img.shields.io/badge/-ARMC-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![UBoot](https://img.shields.io/badge/-U--Boot-6E6E6E?style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Little_Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![PHP](https://img.shields.io/badge/-Little_PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black)
 
 ## 📊 Weekly development breakdown
