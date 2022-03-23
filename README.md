@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```
 From: 15 March 2022 - To: 22 March 2022
 
 Vue.js       20 hrs 54 mins  ██████████████████░░░░░░░   71.61 %
