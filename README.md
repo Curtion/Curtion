@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
   <table>
-  <caption>From: 15 March 2022 - To: 22 March 2022</caption>
+    <caption>From: 15 March 2022 - To: 22 March 2022</caption>
     <tr>
-        <td>Vue.js</td>
-        <td>20 hrs 54 mins</td>
-        <td>██████████████████░░░░░░░</td>
-        <td>71.61 %</td>
+      <td>Vue.js</td>
+      <td>20 hrs 54 mins</td>
+      <td>██████████████████░░░░░░░</td>
+      <td>71.61 %</td>
     </tr>
     <tr>
       <td>JavaScript</td>
@@ -43,7 +43,7 @@
       <td>▒░░░░░░░░░░░░░░░░░░░░░░░░</td>
       <td>00.87 %</td>
     </tr>
-</table>
+  </table>
 
 
 <!--END_SECTION:waka-->
