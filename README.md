@@ -13,7 +13,7 @@
 
 
   From: 15 March 2022 - To: 22 March 2022
-  <br /><br />
+  <br />
   <table>
     <tr>
         <td>Vue.js</td>
