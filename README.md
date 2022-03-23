@@ -11,10 +11,8 @@
 
 <!--START_SECTION:waka-->
 
-
-  From: 15 March 2022 - To: 22 March 2022
-  <br />
   <table>
+  <caption>From: 15 March 2022 - To: 22 March 2022</caption>
     <tr>
         <td>Vue.js</td>
         <td>20 hrs 54 mins</td>
