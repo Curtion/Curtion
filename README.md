@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-<table><caption>From: 24 April 2022 - To: 01 May 2022</caption><tr><td>Vue.js</td><td>16 hrs 15 mins</td><td>█████████████████████▒░░░</td><td>85.49 %</td></tr><tr><td>Other</td><td>1 hr 9 mins</td><td>█▓░░░░░░░░░░░░░░░░░░░░░░░</td><td>6.07 %</td></tr></table>
+<table><caption>From: 25 April 2022 - To: 02 May 2022</caption><tr><td>Vue.js</td><td>12 hrs 20 mins</td><td>█████████████████████░░░░</td><td>83.50 %</td></tr><tr><td>Other</td><td>1 hr 9 mins</td><td>██░░░░░░░░░░░░░░░░░░░░░░░</td><td>7.81 %</td></tr></table>
 
 <!--END_SECTION:waka-->
 
