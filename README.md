@@ -17,9 +17,9 @@
 
 ## My Github
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=curtion&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curtion&theme=default)
 
 ## Where to find me
 
