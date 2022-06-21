@@ -15,13 +15,11 @@
 
 <!--END_SECTION:waka-->
 
-## My Github Stats
+## My Github
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=curtion&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
 
-## My Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
 
 ## Where to find me
 
