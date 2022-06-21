@@ -17,6 +17,8 @@
 
 ## My Github
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=curtion&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
