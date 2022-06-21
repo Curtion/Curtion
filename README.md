@@ -17,12 +17,12 @@
 
 ## My Github
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curtion&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curtion&theme=nord_bright)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=curtion&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=curtion&theme=github&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curtion&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=curtion&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=curtion&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=curtion&theme=nord_bright&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curtion&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=curtion&theme=nord_bright)
 
 ## Where to find me
 
