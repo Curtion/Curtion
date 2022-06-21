@@ -27,5 +27,3 @@
 ## Where to find me
 
 [BLOG](https://blog.3gxk.net)
-
-[GitHub](https://github.com/Curtion)
