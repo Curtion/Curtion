@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-<table><caption>From: 28 August 2022 - To: 04 September 2022</caption><tr><td>Vue.js</td><td>11 hrs 52 mins</td><td>███████████████▒░░░░░░░░░</td><td>61.49 %</td></tr><tr><td>C</td><td>3 hrs 27 mins</td><td>████▒░░░░░░░░░░░░░░░░░░░░</td><td>17.95 %</td></tr><tr><td>JavaScript</td><td>1 hr 25 mins</td><td>██░░░░░░░░░░░░░░░░░░░░░░░</td><td>7.39 %</td></tr><tr><td>Other</td><td>31 mins</td><td>▓░░░░░░░░░░░░░░░░░░░░░░░░</td><td>2.73 %</td></tr></table>
+<table><caption>From: 29 August 2022 - To: 05 September 2022</caption><tr><td>Vue.js</td><td>11 hrs 52 mins</td><td>███████████████▓░░░░░░░░░</td><td>62.60 %</td></tr><tr><td>C</td><td>3 hrs 27 mins</td><td>████▓░░░░░░░░░░░░░░░░░░░░</td><td>18.26 %</td></tr><tr><td>JavaScript</td><td>1 hr 8 mins</td><td>█▒░░░░░░░░░░░░░░░░░░░░░░░</td><td>5.98 %</td></tr><tr><td>Other</td><td>31 mins</td><td>▓░░░░░░░░░░░░░░░░░░░░░░░░</td><td>2.76 %</td></tr></table>
 
 <!--END_SECTION:waka-->
 
