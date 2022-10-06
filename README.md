@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-<table><caption>From: 27 September 2022 - To: 04 October 2022</caption><tr><td>Vue.js</td><td>13 hrs 20 mins</td><td>████████████████▒░░░░░░░░</td><td>64.70 %</td></tr><tr><td>Rust</td><td>4 hrs 24 mins</td><td>█████▒░░░░░░░░░░░░░░░░░░░</td><td>21.37 %</td></tr><tr><td>JavaScript</td><td>2 hrs 11 mins</td><td>██▓░░░░░░░░░░░░░░░░░░░░░░</td><td>10.63 %</td></tr><tr><td>TOML</td><td>22 mins</td><td>▒░░░░░░░░░░░░░░░░░░░░░░░░</td><td>1.78 %</td></tr><tr><td>JSON</td><td>8 mins</td><td>▒░░░░░░░░░░░░░░░░░░░░░░░░</td><td>0.67 %</td></tr><tr><td>Markdown</td><td>6 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░</td><td>0.54 %</td></tr></table>
+<table><caption>From: 28 September 2022 - To: 05 October 2022</caption><tr><td>Vue.js</td><td>10 hrs 56 mins</td><td>███████████████▒░░░░░░░░░</td><td>61.83 %</td></tr><tr><td>Rust</td><td>4 hrs 24 mins</td><td>██████▒░░░░░░░░░░░░░░░░░░</td><td>24.90 %</td></tr><tr><td>JavaScript</td><td>1 hr 40 mins</td><td>██▒░░░░░░░░░░░░░░░░░░░░░░</td><td>9.43 %</td></tr><tr><td>TOML</td><td>22 mins</td><td>▓░░░░░░░░░░░░░░░░░░░░░░░░</td><td>2.08 %</td></tr><tr><td>JSON</td><td>8 mins</td><td>▒░░░░░░░░░░░░░░░░░░░░░░░░</td><td>0.78 %</td></tr><tr><td>Markdown</td><td>6 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░</td><td>0.62 %</td></tr></table>
 
 <!--END_SECTION:waka-->
 
