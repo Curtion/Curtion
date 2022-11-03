@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-<table><caption>From: 25 October 2022 - To: 01 November 2022</caption><tr><td>Other</td><td>10 hrs 2 mins</td><td>██████████▒░░░░░░░░░░░░░░</td><td>41.45 %</td></tr></table>
+<table><caption>From: 26 October 2022 - To: 02 November 2022</caption><tr><td>Other</td><td>8 hrs 29 mins</td><td>█████████▒░░░░░░░░░░░░░░░</td><td>37.80 %</td></tr></table>
 
 <!--END_SECTION:waka-->
 
