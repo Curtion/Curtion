@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-<table><caption>From: 11 December 2022 - To: 18 December 2022</caption><tr><td>Vue.js</td><td>11 hrs 4 mins</td><td>█████████████████████░░░░</td><td>83.38 %</td></tr><tr><td>JavaScript</td><td>1 hr 55 mins</td><td>███▓░░░░░░░░░░░░░░░░░░░░░</td><td>14.47 %</td></tr><tr><td>JSON</td><td>15 mins</td><td>▒░░░░░░░░░░░░░░░░░░░░░░░░</td><td>1.97 %</td></tr><tr><td>SCSS</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░</td><td>0.15 %</td></tr><tr><td>TypeScript</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░</td><td>0.01 %</td></tr><tr><td>XML</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░</td><td>0.01 %</td></tr></table>
+<table><caption>From: 12 December 2022 - To: 19 December 2022</caption><tr><td>Vue.js</td><td>11 hrs 37 mins</td><td>█████████████████████▒░░░</td><td>84.71 %</td></tr><tr><td>JavaScript</td><td>1 hr 47 mins</td><td>███▒░░░░░░░░░░░░░░░░░░░░░</td><td>13.06 %</td></tr><tr><td>JSON</td><td>12 mins</td><td>▒░░░░░░░░░░░░░░░░░░░░░░░░</td><td>1.50 %</td></tr><tr><td>Java</td><td>4 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░</td><td>0.56 %</td></tr><tr><td>SCSS</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░</td><td>0.15 %</td></tr><tr><td>XML</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░</td><td>0.01 %</td></tr></table>
 
 <!--END_SECTION:waka-->
 
