@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-<table><caption>From: 11 January 2023 - To: 18 January 2023</caption><tr><td>Vue.js</td><td>5 hrs 58 mins</td><td>██████████▒░░░░░░░░░░░░░░</td><td>41.39 %</td></tr><tr><td>Other</td><td>4 hrs 4 mins</td><td>███████░░░░░░░░░░░░░░░░░░</td><td>28.22 %</td></tr></table>
+<table><caption>From: 12 January 2023 - To: 19 January 2023</caption><tr><td>Other</td><td>4 hrs 3 mins</td><td>██████▓░░░░░░░░░░░░░░░░░░</td><td>27.08 %</td></tr></table>
 
 <!--END_SECTION:waka-->
 
