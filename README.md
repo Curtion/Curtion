@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-<table><caption>From: 19 January 2023 - To: 26 January 2023</caption><tr><td>Go</td><td>11 mins</td><td>█████████████████████████</td><td>100.00 %</td></tr></table>
+<table><caption>From: 20 January 2023 - To: 27 January 2023</caption><tr><td>Go</td><td>11 mins</td><td>█████████████████████████</td><td>100.00 %</td></tr></table>
 
 <!--END_SECTION:waka-->
 
