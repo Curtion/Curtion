@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-<table><caption>From: 22 January 2023 - To: 29 January 2023</caption><tr><td>HTML</td><td>42 mins</td><td>██████████████████▒░░░░░░</td><td>73.15 %</td></tr><tr><td>Go</td><td>11 mins</td><td>█████░░░░░░░░░░░░░░░░░░░░</td><td>19.76 %</td></tr><tr><td>JavaScript</td><td>4 mins</td><td>█▓░░░░░░░░░░░░░░░░░░░░░░░</td><td>7.08 %</td></tr></table>
+<table><caption>From: 23 January 2023 - To: 30 January 2023</caption><tr><td>HTML</td><td>42 mins</td><td>███████████▓░░░░░░░░░░░░░</td><td>46.62 %</td></tr><tr><td>JavaScript</td><td>23 mins</td><td>██████▓░░░░░░░░░░░░░░░░░░</td><td>26.54 %</td></tr><tr><td>Vue.js</td><td>17 mins</td><td>████▓░░░░░░░░░░░░░░░░░░░░</td><td>18.88 %</td></tr><tr><td>Go</td><td>7 mins</td><td>██░░░░░░░░░░░░░░░░░░░░░░░</td><td>7.95 %</td></tr></table>
 
 <!--END_SECTION:waka-->
 
