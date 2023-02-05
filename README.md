@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 
-<table><caption>From: 27 January 2023 - To: 03 February 2023</caption><tr><td>JavaScript</td><td>4 hrs 42 mins</td><td>███████████▓░░░░░░░░░░░░░</td><td>46.91 %</td></tr><tr><td>Vue.js</td><td>2 hrs 16 mins</td><td>█████▓░░░░░░░░░░░░░░░░░░░</td><td>22.68 %</td></tr><tr><td>HTML</td><td>1 hr 48 mins</td><td>████▒░░░░░░░░░░░░░░░░░░░░</td><td>17.93 %</td></tr><tr><td>JSON</td><td>54 mins</td><td>██▒░░░░░░░░░░░░░░░░░░░░░░</td><td>9.05 %</td></tr><tr><td>Other</td><td>16 mins</td><td>▓░░░░░░░░░░░░░░░░░░░░░░░░</td><td>2.78 %</td></tr></table>
+<table><caption>From: 28 January 2023 - To: 04 February 2023</caption><tr><td>JavaScript</td><td>4 hrs 42 mins</td><td>███████████▒░░░░░░░░░░░░░</td><td>45.67 %</td></tr><tr><td>Vue.js</td><td>2 hrs 16 mins</td><td>█████▓░░░░░░░░░░░░░░░░░░░</td><td>22.08 %</td></tr><tr><td>HTML</td><td>1 hr 48 mins</td><td>████▒░░░░░░░░░░░░░░░░░░░░</td><td>17.46 %</td></tr><tr><td>JSON</td><td>54 mins</td><td>██▒░░░░░░░░░░░░░░░░░░░░░░</td><td>8.83 %</td></tr><tr><td>Other</td><td>16 mins</td><td>▓░░░░░░░░░░░░░░░░░░░░░░░░</td><td>2.71 %</td></tr></table>
 
 <!--END_SECTION:waka-->
 
