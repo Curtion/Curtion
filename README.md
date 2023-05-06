@@ -11,7 +11,15 @@
 
 <!--START_SECTION:waka-->
 
-<table><caption>From: 26 April 2023 - To: 03 May 2023</caption><tr><td>Vue.js</td><td>5 hrs 56 mins</td><td>███████████░░░░░░░░░░░░░░</td><td>44.09 %</td></tr><tr><td>Go</td><td>3 hrs 9 mins</td><td>██████░░░░░░░░░░░░░░░░░░░</td><td>23.38 %</td></tr><tr><td>Dart</td><td>2 hrs 58 mins</td><td>█████▓░░░░░░░░░░░░░░░░░░░</td><td>22.08 %</td></tr><tr><td>JavaScript</td><td>43 mins</td><td>█▒░░░░░░░░░░░░░░░░░░░░░░░</td><td>5.36 %</td></tr><tr><td>XML</td><td>13 mins</td><td>▒░░░░░░░░░░░░░░░░░░░░░░░░</td><td>1.68 %</td></tr><tr><td>Markdown</td><td>11 mins</td><td>▒░░░░░░░░░░░░░░░░░░░░░░░░</td><td>1.39 %</td></tr></table>
+```text
+From: 28 April 2023 - To: 05 May 2023
+
+Vue.js       6 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.09 %
+JavaScript   3 hrs 39 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
+Dart         2 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Markdown     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+```
 
 <!--END_SECTION:waka-->
 
