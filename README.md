@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 May 2023 - To: 21 May 2023
+From: 15 May 2023 - To: 22 May 2023
 
-Go                29 hrs 38 mins  ██████████████▒░░░░░░░░░░   57.35 %
-Vue.js            7 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-TypeScript        4 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-JavaScript        2 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Rust              2 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Go                21 hrs 19 mins  ███████████░░░░░░░░░░░░░░   43.44 %
+Vue.js            12 hrs 29 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+TypeScript        4 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+JavaScript        3 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Rust              2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->
