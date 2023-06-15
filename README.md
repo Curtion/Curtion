@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2023 - To: 13 June 2023
+From: 07 June 2023 - To: 14 June 2023
 
-Vue.js        12 hrs 33 mins  ███████████▒░░░░░░░░░░░░░   45.74 %
-Rust          4 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-JavaScript    2 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-Java          1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Markdown      1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Vue.js        17 hrs 39 mins  █████████████▒░░░░░░░░░░░   53.19 %
+Rust          4 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+JavaScript    3 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+Java          1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+TOML          1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
 <!--END_SECTION:waka-->
