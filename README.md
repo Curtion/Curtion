@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 September 2023 - To: 30 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
 Go             7 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   34.58 %
 Vue.js         5 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
