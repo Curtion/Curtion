@@ -11,14 +11,10 @@
 
 <!--START_SECTION:waka-->
 
-```text
-From: 25 September 2023 - To: 02 October 2023
+```txt
+From: 28 September 2023 - To: 05 October 2023
 
-Vue.js       4 hrs 40 mins   ███████▓░░░░░░░░░░░░░░░░░   30.93 %
-Go           3 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
-TypeScript   2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-JavaScript   1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-JSON         1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
