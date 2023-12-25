@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
-Vue.js       9 hrs 37 mins   ████████████▒░░░░░░░░░░░░   48.75 %
-TypeScript   6 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   31.16 %
-Go           1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-JavaScript   45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-Other        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Vue.js       9 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   43.04 %
+TypeScript   8 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   36.03 %
+JavaScript   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Go           1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+JSON         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
