@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-Vue.js                     11 hrs 32 mins  ███████▓░░░░░░░░░░░░░░░░░   30.41 %
-TypeScript                 9 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-Go                         5 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Markdown                   4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Docker                     2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Vue.js                     10 hrs 53 mins  ███████▒░░░░░░░░░░░░░░░░░   28.74 %
+TypeScript                 8 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
+Go                         4 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Markdown                   4 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+JavaScript                 3 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 ```
 
 <!--END_SECTION:waka-->
