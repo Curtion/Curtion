@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
-JSON         28 mins         ████████████████████████▒   97.68 %
-Go           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+JSON         28 mins         ████████████████████████▓   98.65 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
