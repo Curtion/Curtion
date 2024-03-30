@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2024 - To: 28 March 2024
+From: 22 March 2024 - To: 29 March 2024
 
-Rust         17 hrs 30 mins  █████████░░░░░░░░░░░░░░░░   36.13 %
-Vue.js       12 hrs 13 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
-Python       8 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
-JavaScript   3 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-HTML         1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Rust          20 hrs 52 mins  ██████████▒░░░░░░░░░░░░░░   40.72 %
+Vue.js        13 hrs 47 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
+Python        8 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+TypeScript    1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+TOML          1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
