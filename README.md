@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2024 - To: 08 April 2024
+From: 02 April 2024 - To: 09 April 2024
 
-Vue.js            8 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 %
-Rust              7 hrs 52 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
-TypeScript        5 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
-Python            4 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-YAML              1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Vue.js            7 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+Rust              7 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   23.93 %
+TypeScript        5 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+Python            4 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+YAML              1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
 <!--END_SECTION:waka-->
