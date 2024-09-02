@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
-Vue.js                     13 hrs 49 mins  ████████████▒░░░░░░░░░░░░   49.70 %
-TypeScript                 8 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   31.73 %
-Go                         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Docker                     1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Nginx configuration file   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Vue.js       12 hrs 44 mins  █████████████░░░░░░░░░░░░   51.47 %
+TypeScript   7 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+Go           1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Docker       1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
