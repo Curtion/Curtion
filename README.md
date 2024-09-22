@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2024 - To: 20 September 2024
+From: 14 September 2024 - To: 21 September 2024
 
-Rust         43 hrs 44 mins  ███████████████████▓░░░░░   79.24 %
-Vue.js       4 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-C#           2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-JavaScript   1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Other        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Rust                       33 hrs 14 mins  █████████████████▓░░░░░░░   70.92 %
+Vue.js                     4 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+YAML                       2 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+C#                         2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+JavaScript                 1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
