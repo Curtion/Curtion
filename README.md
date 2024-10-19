@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2024 - To: 17 October 2024
+From: 11 October 2024 - To: 18 October 2024
 
-YAML         7 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   37.32 %
-TypeScript   5 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-Vue.js       3 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Other        53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Markdown     52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+TypeScript                 5 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   30.20 %
+YAML                       5 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   27.83 %
+Vue.js                     4 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+Other                      1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+SSH Key                    33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
