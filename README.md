@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2024 - To: 23 December 2024
+From: 17 December 2024 - To: 24 December 2024
 
-Vue.js            9 hrs 52 mins   ██████████▒░░░░░░░░░░░░░░   41.89 %
-Dart              6 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.08 %
-JavaScript        4 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   20.35 %
-C#                43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JSON              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Vue.js       11 hrs 57 mins  █████████████▒░░░░░░░░░░░   53.87 %
+JavaScript   5 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+Dart         2 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+C#           43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
