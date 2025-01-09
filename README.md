@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 01 January 2025 - To: 08 January 2025
 
-JavaScript        3 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-Vue.js            2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-TypeScript        2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
-TSConfig          59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Prolog            55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+TypeScript        4 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
+Vue.js            3 hrs 57 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+JavaScript        3 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+TSConfig          59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Prolog            55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ```
 
 <!--END_SECTION:waka-->
