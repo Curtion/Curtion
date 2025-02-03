@@ -12,9 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
-No activity tracked
+Java              18 mins         ████████░░░░░░░░░░░░░░░░░   31.65 %
+JSON              10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+Vue.js            9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+Java Properties   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+XML               7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
 ```
 
 <!--END_SECTION:waka-->
