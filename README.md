@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2025 - To: 14 May 2025
+From: 08 May 2025 - To: 15 May 2025
 
-Vue.js                     7 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.62 %
-TypeScript                 6 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   28.95 %
-Markdown                   2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Nginx configuration file   1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-PowerShell                 1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Vue.js                     11 hrs 5 mins   ██████████▒░░░░░░░░░░░░░░   40.99 %
+TypeScript                 10 hrs 5 mins   █████████▒░░░░░░░░░░░░░░░   37.31 %
+Markdown                   1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Nginx configuration file   1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+JavaScript                 59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
