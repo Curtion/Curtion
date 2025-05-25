@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2025 - To: 23 May 2025
+From: 17 May 2025 - To: 24 May 2025
 
 JSON         3 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   24.41 %
 Vue.js       2 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
