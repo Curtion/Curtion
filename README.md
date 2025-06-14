@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2025 - To: 12 June 2025
+From: 06 June 2025 - To: 13 June 2025
 
-Rust         14 hrs 50 mins  ██████████████▒░░░░░░░░░░   57.63 %
-Vue.js       2 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-Java         1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-PowerShell   1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-TypeScript   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Rust         13 hrs 17 mins  ████████████▓░░░░░░░░░░░░   50.43 %
+Java         3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Vue.js       2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+PowerShell   1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+HTML         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 ```
 
 <!--END_SECTION:waka-->
