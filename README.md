@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-Rust         12 hrs 39 mins  ███████████▓░░░░░░░░░░░░░   46.56 %
-XML          5 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-Markdown     2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Astro        1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Go           48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Rust         17 hrs 53 mins  ███████████████▓░░░░░░░░░   62.99 %
+XML          5 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+Markdown     1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Go           48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+TOML         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
