@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-Rust         2 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-TypeScript   1 hr 48 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-Markdown     1 hr 35 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Docker       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-JSON         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Rust         2 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
+TypeScript   2 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.20 %
+Markdown     1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Docker       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+JSON         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
