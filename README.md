@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2025 - To: 06 October 2025
+From: 30 September 2025 - To: 07 October 2025
 
-TypeScript   1 hr 31 mins    ██████████▓░░░░░░░░░░░░░░   42.91 %
-Astro        1 hr 16 mins    █████████░░░░░░░░░░░░░░░░   35.81 %
-Vue.js       27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-JavaScript   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
