@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
 Vue.js       9 hrs 3 mins    ███████████████▓░░░░░░░░░   63.22 %
 JavaScript   2 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
