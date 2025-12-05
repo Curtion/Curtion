@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2025 - To: 03 December 2025
+From: 27 November 2025 - To: 04 December 2025
 
-Rust         30 hrs 29 mins  █████████████████████░░░░   84.40 %
-Markdown     1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Vue.js       1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-TypeScript   1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Rust         29 hrs 3 mins   ███████████████████▒░░░░░   77.92 %
+Vue.js       3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+TypeScript   2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Markdown     1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+JavaScript   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
