@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2025 - To: 14 December 2025
+From: 08 December 2025 - To: 15 December 2025
 
-NWScript     6 hrs           ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-Vue.js       5 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-TypeScript   4 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
-Markdown     1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-YAML         1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Vue.js       6 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   30.50 %
+NWScript     6 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.37 %
+YAML         1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Markdown     1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+JavaScript   1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 ```
 
 <!--END_SECTION:waka-->
