@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 25 December 2025 - To: 01 January 2026
 
-JSON           10 hrs 32 mins  ███████████▒░░░░░░░░░░░░░   45.34 %
-Go             5 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-JavaScript     1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-Vue.js         1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Other          1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+JSON           10 hrs 41 mins  ██████████▓░░░░░░░░░░░░░░   42.51 %
+Go             5 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+Vue.js         1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+JavaScript     1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Rust           1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 ```
 
 <!--END_SECTION:waka-->
