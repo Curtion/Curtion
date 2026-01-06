@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-JSON         4 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
-Go           3 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-Vue.js       2 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-YAML         2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-JavaScript   1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Go           3 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+YAML         2 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+JSON         2 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+Vue.js       2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Rust         1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
 ```
 
 <!--END_SECTION:waka-->
