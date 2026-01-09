@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-Rust         5 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   24.08 %
-YAML         3 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Go           2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-TypeScript   1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-Vue.js       1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Rust         5 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+YAML         3 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Go           2 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+Java         1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+TypeScript   1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
 ```
 
 <!--END_SECTION:waka-->
