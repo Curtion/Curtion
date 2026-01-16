@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2026 - To: 14 January 2026
+From: 08 January 2026 - To: 15 January 2026
 
-Vue.js       8 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   35.05 %
-TypeScript   4 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
-JSON         2 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Rust         2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Other        1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Vue.js       8 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   36.59 %
+TypeScript   4 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+JSON         2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+PowerShell   2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+Rust         1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 ```
 
 <!--END_SECTION:waka-->
