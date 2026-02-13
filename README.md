@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2026 - To: 11 February 2026
+From: 05 February 2026 - To: 12 February 2026
 
-INI          2 hrs 22 mins   █████████████▒░░░░░░░░░░░   53.32 %
-JSON         1 hr 26 mins    ████████░░░░░░░░░░░░░░░░░   32.41 %
-HTML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Markdown     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-PowerShell   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+INI          2 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.73 %
+JSON         2 hrs           ██████████░░░░░░░░░░░░░░░   39.38 %
+HTML         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Markdown     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+PowerShell   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
