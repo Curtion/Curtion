@@ -12,12 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-PowerShell   7 mins          █████████████▓░░░░░░░░░░░   54.56 %
-HTML         5 mins          ████████▓░░░░░░░░░░░░░░░░   35.06 %
-Vue.js       1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+HTML         4 mins          ████████████████████████▒   97.45 %
+PowerShell   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
