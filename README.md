@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2026 - To: 26 June 2026
+From: 20 June 2026 - To: 27 June 2026
 
-Markdown      16 hrs 8 mins   ████████░░░░░░░░░░░░░░░░░   32.56 %
-Go            7 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-Other         4 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-TypeScript    3 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Vue           3 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Markdown      11 hrs 39 mins  ███████▒░░░░░░░░░░░░░░░░░   29.18 %
+Go            7 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
+Other         4 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+TypeScript    3 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+TOML          2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
 ```
 
 <!--END_SECTION:waka-->
