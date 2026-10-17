@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2026 - To: 15 October 2026
+From: 09 October 2026 - To: 16 October 2026
 
-Markdown                   17 hrs 43 mins  ████████▓░░░░░░░░░░░░░░░░   34.79 %
-Other                      7 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-Vue                        6 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-TypeScript                 4 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Image (png)                3 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Markdown                   18 hrs 33 mins  ████████▓░░░░░░░░░░░░░░░░   34.32 %
+Other                      7 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+C                          5 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Vue                        4 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+TypeScript                 3 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 ```
 
 <!--END_SECTION:waka-->
